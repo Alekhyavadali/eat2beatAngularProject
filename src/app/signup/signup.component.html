@@ -1,0 +1,22 @@
+<html>
+  <body>
+    <div class="lastpic"> </div>
+    <div class="signup">
+        <div class="signuptext">Register with Eat2beat</div>
+        <div class="input">
+            <div><input  class="inputtext" type="text" placeholder="Fullname" [(ngModel)]="dataservice.fullname"></div>
+          <div><input  class="inputtext" type="text" placeholder="username" [(ngModel)]="dataservice.username"></div>
+          <div><input  class="inputtext" type="text" placeholder="e-mail" [(ngModel)]="dataservice.email"></div>
+          <div><input  class="inputtext" type="text" placeholder="address" [(ngModel)]="dataservice.address"></div>
+          <div><input  class="inputtext" type="text" placeholder="Target-calories" [(ngModel)]="dataservice.targetcalories"></div>
+          <div><input  class="inputtext" type="number" placeholder="phone Number" [(ngModel)]="dataservice.phonenumber"></div>
+          <div><input  class="inputtext" type="password" placeholder="password" [(ngModel)]="dataservice.password"></div>
+
+          <div><button class="signupbutton" (click)="onclicksignup()">Signup</button></div>
+          <div class="signuptext">Already a member?</div>
+          <div> <button class="loginbutton" (click)="onclicklogin()">Login</button></div> 
+        
+    </div>
+    </div>
+  </body>
+</html>

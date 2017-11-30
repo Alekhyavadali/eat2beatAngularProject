@@ -1,0 +1,56 @@
+.body,html{
+    margin: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    margin-left: -8px;
+    padding: 0;
+    }
+     
+*{
+margin: 0;
+margin-bottom: 0;
+margin-right: 0;
+margin-left: 0;
+padding: 0;
+margin-bottom: 0;
+font:futura-lt-w01-light,sans-serif;
+
+}
+.lastpic{
+    background-image: url(/assets/images/orderonline.jpg);
+     background-attachment: fixed;
+     background-size: cover;
+     height: 300px;
+     position: relative;
+     margin-top: 20px;
+ }
+ .boxtext{
+   
+    color: #605E5E;
+  padding:100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+ }
+ .boxes{
+    display: inline-block;
+    margin-left: 10px;
+    padding:100px;
+    margin-top:20px;
+    cursor: pointer;
+ }
+ .alignbox{
+     float: left;
+
+ }
+ .buybutton{
+    background-color: #BC9B5D;
+    color: #605E5E;
+    text-align: center;
+    border: none;
+    padding: 15px 32px;
+    margin-top:20px;
+    margin-bottom: 30px;
+    padding-right:50px;
+    cursor: pointer;
+    margin-left:50px;
+}  

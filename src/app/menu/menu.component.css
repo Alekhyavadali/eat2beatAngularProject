@@ -1,0 +1,89 @@
+.body,html{
+    margin: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    margin-left: -8px;
+    padding: 0;
+    }
+     
+*{
+margin: 0;
+margin-bottom: 0;
+margin-right: 0;
+margin-left: 0;
+padding: 0;
+margin-bottom: 0;
+font:futura-lt-w01-light,sans-serif;
+
+}
+.lastpic{
+    background-image: url(/assets/images/menu.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    margin-top: 20px;
+}.menupage{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    padding-bottom:50px;
+}
+.starters{
+font: normal normal normal 25px/1.5em libre baskerville;
+color: rgb(188, 155, 93);
+margin-top: 22px;
+margin-bottom: 22px;
+line-height: 1;
+text-align: center;
+
+}
+.horline{
+    background-color: rgb(160, 160, 159);
+    height:0.2px;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+
+}
+.text{
+    font: normal normal normal 14px/1.5em futura-lt-w01-light;
+    color: rgb(96, 94, 94);
+    line-height: 1.5;
+    margin-top: 16px;
+    
+}
+.firststarter{
+    font: normal normal normal 15px/1.5em futura-lt-w01-light;
+    color:rgb(96, 94, 94);
+    line-height: 2;
+}
+.eachstarter{
+    
+    margin-left:20px;
+    margin-top: 30px;
+}
+.dots{
+    color: rgb(96, 94, 94); 
+    font: normal normal normal 15px/1.5em futura-lt-w01-light;
+}
+.eachstarter{
+    display: inline-block;
+    margin-left:20px;
+    margin-top: 30px;
+}
+.gf{
+    display:block;
+}
+.starterinline{
+    float: left;
+}
+.menupage1{
+    padding-left: 300px;
+    margin-bottom:150px;
+}
+.space{
+    padding-bottom: 50px;
+}

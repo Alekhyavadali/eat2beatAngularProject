@@ -1,0 +1,74 @@
+.body,html{
+    margin: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    margin-left: -8px;
+    padding: 0;
+    }
+     
+*{
+margin: 0;
+margin-bottom: 0;
+margin-right: 0;
+margin-left: 0;
+padding: 0;
+margin-bottom: 0;
+font:futura-lt-w01-light,sans-serif;
+}
+
+.footer{
+    float: left;
+    width:100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height:250px;
+    background-color: rgba(188, 155, 93, 1);
+    border-top: 0px solid transparent;
+    border-bottom: 0px solid transparent;
+}
+.footermail{
+    padding: 10px;
+  
+    
+    padding-right: 170px;
+    border-width: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-color: #C9B691;
+    background-color: rgba(255,255,255,0.14754098360655737);
+    color: #FFFFFF;
+    font: normal normal normal 15px/1.4em futura-lt-w01-light,sans-serif;
+}
+.footertext{
+    margin-left: 100px;
+    padding-top: 100px;
+    color: #FFFFFF;
+  
+}
+.footersubscribe{
+    
+   padding: 10px;
+   
+    background-color: white;
+    padding-right: 170px;
+    border-width: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    font: normal normal normal 15px/1.4em futura-lt-w01-light,sans-serif;
+    margin-top: 10px;
+    float: left;
+    color:#666262;
+}
+.proudtext{
+    color:#FFFFFF;
+    float: left;
+    margin-left: 500px;
+  margin-top: -50px;
+}
+

@@ -1,0 +1,64 @@
+.body,html{
+    margin: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    margin-left: -8px;
+    padding: 0;
+    }
+     
+*{
+margin: 0;
+margin-bottom: 0;
+margin-right: 0;
+margin-left: 0;
+padding: 0;
+margin-bottom: 0;
+font:futura-lt-w01-light,sans-serif;
+}
+.loginpage{
+    margin-left: 300px;
+    margin-right:300px;
+}
+.logintext{
+    color: #BC9B5D;
+    text-align: center;
+padding: 30px;
+font: italic normal normal 20px/1.4em 'libre baskerville',serif;
+}
+.input{
+    text-align: center;
+}
+.inputtext{
+    border-color: #BC9B5D;
+    color: #605E5E;
+    padding:10px;
+    padding-right: 170px;
+    margin: 10px;
+    font: italic normal normal 20px/1.4em 'libre baskerville',serif;
+}
+.loginbutton{
+    background-color: #BC9B5D;
+    color: #605E5E;
+    text-align: center;
+    border: none;
+    padding: 15px 32px;
+    cursor: pointer;
+}
+.lastpic{
+    
+         background-image: url(/assets/images/login.jpg);
+          background-attachment: fixed;
+          background-size: cover;
+          height: 300px;
+          position: relative;
+          margin-top: 20px;
+      }
+      .signupbutton{
+        background-color: #BC9B5D;
+        color: #605E5E;
+        text-align: center;
+        border: none;
+        padding: 15px 52px;
+        margin-bottom: 20px;
+        cursor: pointer;
+      }

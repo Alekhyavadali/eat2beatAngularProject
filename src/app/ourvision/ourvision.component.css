@@ -1,0 +1,128 @@
+.body,html{
+    margin: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    margin-left: -8px;
+    padding: 0;
+    }
+     
+*{
+margin: 0;
+margin-bottom: 0;
+margin-right: 0;
+margin-left: 0;
+padding: 0;
+margin-bottom: 0;
+font:futura-lt-w01-light,sans-serif;
+
+}
+.lastpic{
+   background-image: url(/assets/images/ourvision1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    margin-top: 20px;
+}
+.maintext{
+    font: italic normal normal 40px/1.4em 'libre baskerville',serif;
+    color: #BC9B5D;
+    letter-spacing: 0.04em;
+    padding-top: 70px;
+}
+
+   
+ .ourvisionpage {
+        margin-left: 300px;
+        margin-right:300px; 
+        margin-bottom: 100px;
+    }
+    
+.smalltext{
+    font: italic normal normal 20px/1.4em 'libre baskerville',serif;
+     color: #605E5E;
+}
+.lastpic1{
+   
+        background-image: url(/assets/images/ourvisionextra.jpg);
+         background-attachment: fixed;
+         background-size: cover;
+         height: 300px;
+         position: relative;
+         margin-top: 20px;
+     }
+     
+    .lastpic2{
+         margin-top: 20px;
+         margin-left:500px;
+         margin-right:300px;
+          }
+          .icon1{
+            
+             color: #6E6E6E;
+             margin-top:40px;
+             border: 1px solid #6E6E6E;
+             border-radius: 190px;
+             height: 190px;
+             width: 190px;	
+             background-size: 40px;
+             display: inline-block;
+             font-size: 1em;
+             text-align: center;
+             margin-bottom: .25em;
+             margin-left:30px;
+
+          }
+          .icon2{
+         
+            color: #6E6E6E;
+            margin-top:40px;
+            border: 1px solid #6E6E6E;
+            border-radius: 190px;
+            height: 190px;
+            width: 190px;	
+            background-size: 40px;
+            display: inline-block;
+            font-size: 1em;
+            text-align: center;
+            margin-bottom: .25em;
+            margin-left:30px;
+          }
+          .icon3{
+            
+            color: #6E6E6E;
+            margin-top:40px;
+            border: 1px solid #6E6E6E;
+            border-radius: 190px;
+            height: 190px;
+            width: 190px;	
+            background-size: 40px;
+            display: inline-block;
+            font-size: 1em;
+            text-align: center;
+            margin-bottom: .25em;
+            margin-left:30px;
+          }
+          .icon4{
+            
+            color: #6E6E6E;
+            margin-top:40px;
+            border: 1px solid #6E6E6E;
+            border-radius: 190px;
+            height: 190px;
+            width: 190px;	
+            background-size: 40px;
+            display: inline-block;
+            font-size: 1em;
+            text-align: center;
+            margin-bottom: .25em;
+            margin-left:30px;
+          }
+          .icontext{
+              padding-top:20px;
+          }
+          .spicepic{
+              float: left;
+          }
+        
+        

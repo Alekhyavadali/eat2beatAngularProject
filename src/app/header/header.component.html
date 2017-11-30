@@ -1,0 +1,19 @@
+<html>
+  <body>
+    <div class="mainname">EAT2BEAT</div>
+   <hr >
+   
+    <span class="items" (click)="clickhome()">Home</span>
+    <span class="items" (click)="clickourvision()">Our Vision</span>
+    <span class="items" (click)="clickmenu()">Menu</span>
+    <span class="items" (click)="clickorderonline()">Order Online</span>
+    
+   <span class="items" *ngIf="dataservice.profile==true && dataservice.username!==null" (click)="clicklogout()">Logout</span>
+    <div class="lastitem">
+      <span *ngIf = "dataservice.username == null" (click)="clicklogin()" >Login/Signup</span>
+      <span *ngIf = "dataservice.username !== null" (click)="clickprofile()">{{dataservice.username}}</span>
+    </div>
+  
+   
+  </body>
+</html>
